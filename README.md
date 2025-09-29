@@ -13,8 +13,6 @@ Contact: ([ian.simpson@ed.ac.uk](mailto:ian.simpson@ed.ac.uk))
 
 This repository contains course materials including code and data.
 
-You can also view the course from [this website](https://biomedical-informatics.github.io/pbi-home/) if you prefer.
-
 ### Lectures
 Be sure to check your timetable for lecture locations as these can change during the term although this is not expected.
 
@@ -29,4 +27,5 @@ Please be sure to regularly check back to this website and/or pull the repositor
 
 - :white_check_mark: - [week 0 tasks to complete](https://github.com/biomedical-informatics/pbi/tree/initial-release/week0) before the course begins
 - :white_check_mark: - [week 1 materials](https://github.com/biomedical-informatics/pbi/tree/initial-release/week1)
-- :new: - [week 2 materials](https://github.com/biomedical-informatics/pbi/tree/initial-release/week2) are now available.
+- :white_check_mark: - [week 2 materials](https://github.com/biomedical-informatics/pbi/tree/initial-release/week2)
+- :new: - [week 3 materials](https://github.com/biomedical-informatics/pbi/tree/initial-release/week3) are now available

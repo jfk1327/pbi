@@ -11,4 +11,4 @@ Contact: ([ian.simpson@ed.ac.uk](mailto:ian.simpson@ed.ac.uk))
 
 #### Lectures
 - Week 1 - [Welcome & Getting Started](https://youtu.be/7_hzz-Z5oLw) (lecture 1) & [Working with Notebooks & Git](https://youtu.be/PGiEfLhTZO4) (lecture 2)
-- Week 2 - [Intoduction to the Biomedical Dataverse](https://youtu.be/95Wwuvh6tps) (lecture 3)
+- Week 2 - [Intoduction to the Biomedical Dataverse](https://youtu.be/95Wwuvh6tps) (lecture 3) & [Bulk FTP Download & APIs](https://youtu.be/Ky9fhzoXpxc) (lecture 4)
